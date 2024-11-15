@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR.ARFoundation; // include xr library
 
-public class TrackImage : MonoBehaviour
+public class ImageTracker : MonoBehaviour
 {
     [SerializeField]
     ARTrackedImageManager m_TrackedImageManager;

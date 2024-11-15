@@ -251,7 +251,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c39bb24e2bd7a482ca08117fb44b8e44, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Image: {fileID: 0}
+  m_Image: {fileID: 2800000, guid: 2b1feab903b6efa4f83c468680c0cf1e, type: 3}
   m_ImagePhysicalSizeMeters: {x: 0.06, y: 0.06}
 --- !u!1 &5056272964426416779
 GameObject:
